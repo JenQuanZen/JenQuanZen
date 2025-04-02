@@ -6,6 +6,7 @@ I’m a frontend software developer, project coordinator, and illustrator based 
 - Email: jenquanzen@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jennyszhou/ 
 - Website: [jenquanzen.com](https://www.jenquanzen.com/)
+- Resume: [Jenny Zhou Resume](https://docs.google.com/document/d/1tAIeUYDw3bhxsOMH_dr4djm_xp9GIpF1/edit?usp=sharing&ouid=100108562430959705877&rtpof=true&sd=true)
 
 <!--
 **JenQuanZen/JenQuanZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
